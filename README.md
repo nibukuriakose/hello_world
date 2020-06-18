@@ -1,3 +1,2 @@
-# hello_world
-My First Repository
-Read me file in Master
+# My First Repository
+Hello Nibu!
